@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">AndroidOauth</string>
+    <string name="sales">sales</string>
+    <string name="server_ip">http://192.168.31.100:8080/salesken-authentication/</string>
+    <string name="shared_preference_key">ABCDAppComplexKey</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="server_client_id">103923746292596131690</string>
+    <string name="cueswebsocket">wss://cue.salesken.ai/cueing/cueSubscriber/userId/token</string>
+    <string name="ken">ken</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgotpassword">Forgot Password ?</string>
+    <string name="login">Sign In</string>
+
+    <string name="email">Email</string>
+    <string name="sent">Sent</string>
+    <string name="forgot_text">Use your email to receive reset password instructions</string>
+
+    <string name="email_sent">Enter OTP</string>
+    <string name="check_email">Please check your email ""\n and enter the verification code below.</string>
+    <string name="cues_support">Make every call\nmatter</string>
+    <string name="introduction_text1">Get real time cues to drive every customer\nconversation to success.</string>
+    <string name="tools_support">Work with\nyour favourite tools</string>
+    <string name="introduction_text2">Integrates with Dialers, Web conferencing,\nTelephony, Mail servers &amp; More</string>
+    <string name="analytics_support">Comprehensive\nSales Intelligence</string>
+    <string name="introduction_text3">Full visibility into customer conversations and\nscientifically curated pipeline</string>
+
+    <string name="disposition">Disposition</string>
+    <string name="disposition_msg">How did the call go ?</string>
+    <string name="no_response">No Response </string>
+    <string name="call_dropped">Call Dropped </string>
+    <string name="voice_mail">Voice Mail</string>
+    <string name="wrong_number">Wrong Number</string>
+    <string name="wrong_person">Wrong Person</string>
+    <string name="call_answered">Call Answered </string>
+
+    <string name="no_resp_msg">Oops Seems like customer is busy !</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="msg">Message</string>
+    <string name="submit">Submit</string>
+    <string name="skip">Skip</string>
+    <string name="call_note">Notes</string>
+
+    <string name="lost_lead">Lead Lost</string>
+    <string name="follow_up">Follow Up </string>
+    <string name="schedule">Schedule Activity </string>
+    <string name="lead_won">Lead Won </string>
+    <string name="dnd">DND </string>
+    <string name="edit_lead">Edit Lead Details</string>
+
+    <string name="create_contact">Create Contact </string>
+    <string name="save_contact">Save Lead </string>
+    <string name="company_name">Company Name </string>
+    <string name="first_name">First name </string>
+    <string name="last_name">Last name </string>
+    <string name="designation">Designation </string>
+    <string name="mobile">Mobile </string>
+
+    <string name="my_account">Profile</string>
+    <string name="edit_info">Edit Information</string>
+    <string name="name">Name </string>
+    <string name="contact_number">Contact Number </string>
+    <string name="sip_number">SIP Number </string>
+    <string name="language">Language </string>
+
+    <string name="current_password">Current Password </string>
+    <string name="new_password">New Password </string>
+    <string name="confirm_password">Confirm Password </string>
+
+    <string name="cues_1">We are here to help you!</string>
+    <string name="cues_2">Auto generated cues will help you engage the leads better</string>
+    <string name="schedule_msg">Hurray! Customer looks\nquite interested. Let’s follow-up...</string>
+    <string name="feroz_channel_name">Salesken</string>
+    <string name="feroz_channel_description">Salesken Notification</string>
+    <string name="proxy_note">Once the customer connects the call, your cues will start appearing here...\nTo navigate the calls, use your phone controls.</string>
+    <string name="reason">Reason </string>
+
+</resources>
